@@ -1,0 +1,27 @@
+produto1 = ('Fone de ouvido', 100, 30)
+produto2 = ('relógio', 30, 500)
+produto3 = ('brinco', 400, 20)
+produto4 = ('pulseira', 500, 22)
+
+print("---produto 1---")
+print("Nome:", produto1[0])
+print("Estoque:", produto1[1])
+print("Preço R$:", produto1[2])
+print()
+
+print("---produto 2----")
+print("Nome:", produto2[0])
+print("Estoque:", produto2[1])
+print("Preço R$:", produto2[2])
+print()
+
+print("---produto 3---")
+print("Nome:", produto3[0])
+print("Estoque:", produto3[1])
+print("Preço R$:", produto3[2])
+print()
+
+print("---produto 4---")
+print("Nome:", produto4[0])
+print("Estoque:", produto4[1])
+print("Preço R$:", produto4[2])
